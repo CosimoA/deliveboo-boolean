@@ -2,7 +2,7 @@
 
 ## Team 3:
 
-### Cosimo Archi
+### Cosimo Archip
 ### Mauro Cazzato
 ### Masimiljano Dama
 ### Davide Prencipe
